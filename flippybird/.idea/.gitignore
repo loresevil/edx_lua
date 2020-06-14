@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/misc.xml
+/modules.xml
+
+/flippybird.iml
+# Editor-based HTTP Client requests
+/httpRequests/

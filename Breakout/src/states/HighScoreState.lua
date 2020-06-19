@@ -1,0 +1,1 @@
+HighScoreState = Class {__includes = BaseState}
